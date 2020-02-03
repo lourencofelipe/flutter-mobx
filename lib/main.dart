@@ -9,8 +9,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter email validation',
-      theme: ThemeData(
-      ),
       home: HomeScreen(),
     );
   }
