@@ -1,6 +1,6 @@
 # email_validation_mobx
 
-A new Flutter project.
+Flutter application using mobX.
 
 ## Getting Started
 
